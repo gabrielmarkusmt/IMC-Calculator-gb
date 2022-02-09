@@ -6,3 +6,6 @@ Funcionalidades de dizer seu nome (Humanizando o processo)
 
 Alertas de peso (Baixo índice, obesidade grau I,II,III etc)
 
+
+Trabalhei na parte do Design com pallets modernos e harmônicos
+
